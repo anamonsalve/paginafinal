@@ -13,7 +13,7 @@
      
 }
 body{
-    background-image: url("fondo.jpg");
+    background-image: url("../imagenes/fondo.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -31,14 +31,14 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 .img1{
     height: 193px;
     width: 300px;
-    background-image: url("piedra.jpeg");
+    background-image: url("../imagenes/piedra.jpeg");
     background-repeat: no-repeat;
     float: right;
 }
 .img2{
     height: 500px;
     width: 500px;
-    background-image: url("medellin.jpeg");
+    background-image: url("../imagenes/medellin.jpeg");
     background-repeat: no-repeat;
     float: left;
 }
