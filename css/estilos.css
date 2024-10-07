@@ -42,3 +42,15 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-repeat: no-repeat;
     float: left;
 }
+.tec {
+    color: black;
+}
+.ing {
+    color: black;
+    text-align: center;
+}
+
+.img_circuitos_tecnologia {
+    width: 600px;
+    height: 500px;
+}
