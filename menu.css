@@ -4,16 +4,20 @@
 }
 
 #menu{
-    margin: auto;
+    margin: 0 auto;
     width: 1500px;
     font-family: Arial, Helvetica, sans-serif;
-    position: fixed;
-   left:20%;
+    position: relative;
      
 }
 
 ul, ol {
     list-style: none;
+}
+
+.nav {
+    display: flex;
+    justify-content: center; 
 }
 
 .nav > li {
