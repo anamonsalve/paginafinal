@@ -1,177 +1,50 @@
 .contenedor{
 
-    width: 100px;
-    background-color: bisque;
-    display: flex;
-    flex-direction: column;
-    text-align: center;
-  
+width: 100%;
+height: 1550px;
+background-color: blueviolet;
+display: flex;
+flex-direction: column;
+text-align: center;
+font-family: fantasy;
+
 }
+
+
 
 .encabezado{
 
 width: 100%;
-height: 50px;
-font-size: 40px;
-font-family: fantasy;
-color: black;
-
-
-
-
+height: 250px;
+background-color: blue;
+font-size: 55PX;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif<;
 }
 
-.ingles{
+.sociales{
+    width: 100%;
+    height: 600x;
+    background-color: chartreuse;
+font-size: 30px;
+text-align: center;
+font-family: fantasy;
+}
+.Ingles{
 
 width: 100%;
-height: 3000px;
-font-size: 30px;
-
-
-
-
-
-
-}
-          .sociales{
-
-            width: 100%;
-            height: 1119px;
-            font-size: 30px;
-        
-
-
-
-
-
+height: 600px;
+background-color: darkturquoise;
+font-size: 100%;
+text-align: center;
+font-family: fantasy;
 
 }
 
-.tecnologia{
-
-    width: 100%;
-    height: 2600px;
-    font-size: 30px;
-
-
-
-
-
-
-
-}
-
-.fuentesdeenergia{
-
-    width: 100%;
-    height: 60px;
-    font-size: 50px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: rgb(0, 0, 0);
-
-
-
-
-
-
-
-
-
-}
-
-.lademocracia{
-
-
-    width: 100%;
-    height: 60px;
-    font-size: 50px;
-    background-color: magenta;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: aqua;
-
-
-
-
-
-}
-
-.renovable{
-
-    width: 100%;
-    height: 60px;
-    font-size: 50px;
-    background-color: crimson;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: rgb(7, 131, 13);
-
-
-
-
-
-
-}
-
-.norenovable{
-
-    width: 100%;
-    height: 60px;
-    font-size: 50px;
-    background-color: crimson;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: rgb(7, 131, 13);
-
-
-
-
-
-
-
-}
-
-.ingless{
-    width: 100%;
-    height: 60px;
-    font-size: 50px;
-    background-color: cadetblue;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: blueviolet;
-
-
-
-
-
-
-
-}
-
-.socialess{
-
-
-    width: 100%;
-    height: 60px;
-    font-size: 50px;
-    background-color: magenta;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: darksalmon;
-
-
-
-
-}
-.tecnologiaa{
-
-    width: 100%;
-    height: 60px;
-    font-size: 50px;
-    background-color: crimson;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: cadetblue;
-
-
-
-
-
-
-
+.Tecnologia{
+
+width: 100%;
+height: 535px;
+background-color: blueviolet;
+text-align: center;
 
 }
